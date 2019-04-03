@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.STIW3054.assigment2.ListSocCourses" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/ListSocCourses.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="139" x="403" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.STIW3054.assigment2.CalculateSOCCourses" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/CalculateSOCCourses.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="169" x="582" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.STIW3054.assigment2.DisplaySTIW3054" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/DisplaySTIW3054.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="146" x="791" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.STIW3054.assigment2.CalculateCourses" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/CalculateCourses.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="977" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.STIW3054.assigment2.ScanningPDF" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/ScanningPDF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="129" x="1164" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.STIW3054.assigment2.App" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/App.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="125" x="1333" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.STIW3054.assigment2.CalculateExamDays" project="assigment2" 
+    file="/assigment2/src/main/java/com/STIW3054/assigment2/CalculateExamDays.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="157" x="1498" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
