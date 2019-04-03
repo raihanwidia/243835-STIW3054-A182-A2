@@ -1,4 +1,4 @@
-# 243835-STIW3054-A182-A1 
+# Extracting PDF Content and analyized the content
 
 ## Student Info 
 Kirana Raihan Widia 243835
@@ -21,13 +21,13 @@ Kirana Raihan Widia 243835
 
 ## Result Output
 
-![image]()
+![image](https://github.com/raihanwidia/243835-STIW3054-A182-A2/blob/master/Captured%20(1).JPG)
 
-![image]()
+![image](https://github.com/raihanwidia/243835-STIW3054-A182-A2/blob/master/Captured%20(2).JPG)
 
 ## UML Class Diagram
 
-![image]()
+![image](https://github.com/raihanwidia/243835-STIW3054-A182-A2/blob/master/ClassDiagram.png)
 
 ## Videos
 
