@@ -1,4 +1,3 @@
-# Extracting PDF Content and analyized the content
 
 ## Student Info 
 Kirana Raihan Widia 243835
