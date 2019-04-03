@@ -33,4 +33,22 @@ Kirana Raihan Widia 243835
 
 ## References
 
+The Tutorialspoints -  how to use regular expression in this project and how to use its operator 
+https://www.tutorialspoint.com/java/java_regular_expressions.htm
+
+Provide information in every library that java already built in , and how to use every constructor and method
+https://docs.oracle.com/javase/7/docs/api/index.html?overview-summary.html
+
+Information about PDF reader and whats the constructor and method that need to be used 
+https://itextsupport.com/apidocs/iText5/5.5.9/
+
+explain how to produce metric using this plugin 
+http://metrics2.sourceforge.net/
+
+explain how to produce diagram using this plugin
+http://www.objectaid.com/
+
+
+
+
 
