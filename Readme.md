@@ -5,7 +5,7 @@ Kirana Raihan Widia 243835
 ## Introduction
 
  This is an Assigment of STIW3054 Realtime Programming , In this assigment i have to retrive the information of the pdf which is an final exam schedule 
- using **MAVEN** and **ITEXT** as library to retrive all the content into string and we have to 
+ using **MAVEN** and **ITEXT** as library to retrive all the content into string and i have to :
  
  - Calculate the total number of course that being finaled 
  - Calculate the total number of days of final exam occurs
